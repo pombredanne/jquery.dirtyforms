@@ -1,0 +1,37 @@
+{
+  "name": "jquery.dirtyforms.dialogs.bootstrap",
+  "main": "jquery.dirtyforms.dialogs.bootstrap.min.js",
+  "version": "2.0.0",
+  "homepage": "https://github.com/snikch/jquery.dirtyforms",
+  "authors": [
+    "Shad Storhaug <shad@shadstorhaug.com>"
+  ],
+  "description": "A module to enable automatic Bootstrap Modal dialog support when using jQuery Dirty Forms.",
+  "keywords": [
+    "bootstrap",
+    "modal",
+    "dirty",
+    "forms",
+    "HTML",
+    "form",
+    "confirm",
+    "dialog",
+    "confirmation",
+    "are",
+    "you",
+    "sure"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "*.json",
+    ".git"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1",
+    "jquery.dirtyforms": ">=1.0.0",
+    "bootstrap": ">=3.0.0"
+  }
+}
